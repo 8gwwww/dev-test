@@ -5,7 +5,10 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		System.out.print("Hello Git");
 		System.out.print("happy");
-		System.out.print("���֣�ž��û��");
+
+		System.out.print("快乐，啪！没了");
+
+		System.out.print("蹇箰锛屽暘锛佹病浜�");
 
 	}
 
